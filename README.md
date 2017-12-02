@@ -1,1 +1,0 @@
-# AGN-Periodicity-Tools
